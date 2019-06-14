@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrhamsterball.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\staff\\Documents\\GitHub\\VRHamsterBall\\VRHamsterball\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VRHamsterball [Testing]"
+        }
+      }
+    }
+  ]
+}
