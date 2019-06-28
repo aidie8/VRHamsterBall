@@ -8,7 +8,7 @@ public class HandControls : MonoBehaviour
 {
     public SteamVR_Action_Boolean grabAction;
     public SteamVR_Input_Sources handType;
-    public SteamVR_Behaviour_Pose controllerPose;
+    public GameObject ball;
     public Hand controller;
     public GameObject pointerObject;
     //private variables
@@ -25,6 +25,7 @@ public class HandControls : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         if (!ballGrabbed && getGrab()) {
             ballGrabbed = true;
             RaycastHit hit;
@@ -34,7 +35,7 @@ public class HandControls : MonoBehaviour
                 pointerObject.transform.position = hit.transform.position;
             }
         }
-
+        
         
         if (!getGrab()) {
             ballGrabbed = false;
@@ -42,8 +43,15 @@ public class HandControls : MonoBehaviour
         }
         if (ballGrabbed)
         {
+            Vector3 currentVector = controller.transform.position;
+            Vector3 difference = currentVector - prevVector;
+            ball.GetComponent<Rigidbody>().AddTorque(difference, ForceMode.Impulse);
 
         }
+
+
+
+        prevVector = controller.transform.position;
     }
 
     bool getGrab()
