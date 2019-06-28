@@ -22,8 +22,6 @@ public class PlayerMovement : MonoBehaviour
     {
         //transforms player to the ball every update,makes the player down a bit in the ball. can be ajusted to work better
         playerScript.trackingOriginTransform.position = ball.transform.position - new Vector3(0, ball.GetComponent<SphereCollider>().radius / 2);
-            Vector3 dir = new Vector3(0, 0, 9);
-            ball.AddRelativeTorque(dir,ForceMode.Impulse);
 
         }
     }
