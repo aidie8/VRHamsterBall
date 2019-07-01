@@ -11,6 +11,7 @@ public class HandControls : MonoBehaviour
     public GameObject ball;
     public Hand controller;
     public GameObject pointerObject;
+    public Player player;
     //private variables
     private GameObject pointerball;
     private bool ballGrabbed;
@@ -30,28 +31,23 @@ public class HandControls : MonoBehaviour
             ballGrabbed = true;
             RaycastHit hit;
             if (Physics.Raycast(controller.transform.position, controller.transform.TransformDirection(Vector3.forward),out hit)) {
-                Debug.Log("ray hit");
-                pointerball = Instantiate(pointerObject);
-                pointerObject.transform.position = hit.transform.position;
+               // Debug.Log("ray hit");
+              //  pointerball = Instantiate(pointerObject);
+               // pointerObject.transform.position = hit.transform.position;
             }
         }
         
         
         if (!getGrab()) {
             ballGrabbed = false;
-            Destroy(pointerObject);
         }
         if (ballGrabbed)
         {
-            Vector3 currentVector = controller.transform.position;
-            Vector3 difference = currentVector - prevVector;
-            ball.GetComponent<Rigidbody>().AddTorque(difference, ForceMode.Impulse);
-
+            //Vector3 scale = new Vector3(0, 0, 0);
+            //Vector3 vect = player.transform.forward.
+            player.transform.position += controller.transform.forward * 10;
         }
 
-
-
-        prevVector = controller.transform.position;
     }
 
     bool getGrab()
