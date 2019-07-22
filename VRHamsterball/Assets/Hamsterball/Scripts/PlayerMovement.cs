@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
@@ -15,6 +16,8 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         playerScript = player.GetComponent<Player>();
+        //ball = new Rigidbody();
+        ball = ball.GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
@@ -22,7 +25,10 @@ public class PlayerMovement : MonoBehaviour
     {
         //transforms player to the ball every update,makes the player down a bit in the ball. can be ajusted to work better
         //playerScript.trackingOriginTransform.position = ball.transform.position - new Vector3(0, ball.GetComponent<SphereCollider>().radius / 2);
-        ball.transform.position = playerScript.trackingOriginTransform.position;
+        //Console.WriteLine(ball);
+       Vector3 position = ball.transform.position;
+       Console.WriteLine(position);
+       playerScript.trackingOriginTransform.position = position;
 
         }
     }

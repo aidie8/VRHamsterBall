@@ -14,6 +14,6 @@ public class movecube : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.transform.position = ball.transform.position - new Vector3(1, 0, 0);
+        //this.transform.position = ball.transform.position - new Vector3(1, 0, 0);
     }
 }
