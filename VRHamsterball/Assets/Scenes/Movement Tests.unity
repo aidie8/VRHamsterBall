@@ -689,7 +689,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &463878558
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1523,6 +1523,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 13533284, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
 --- !u!114 &1290751255 stripped
@@ -1583,7 +1587,7 @@ MonoBehaviour:
     actionPath: /actions/default/in/GrabPinch
     needsReinit: 0
   handType: 2
-  ball: {fileID: 0}
+  ball: {fileID: 917414960}
   controller: {fileID: 1290751267}
   pointerObject: {fileID: 1343264314}
   player: {fileID: 1290751255}
@@ -1603,7 +1607,7 @@ MonoBehaviour:
     actionPath: /actions/default/in/GrabPinch
     needsReinit: 0
   handType: 1
-  ball: {fileID: 0}
+  ball: {fileID: 917414960}
   controller: {fileID: 1290751259}
   pointerObject: {fileID: 6207791807489924375, guid: b208d3ae5afe3d741ad03c36cfbc07f2,
     type: 3}
