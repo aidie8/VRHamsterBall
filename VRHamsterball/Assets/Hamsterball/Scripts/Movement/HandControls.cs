@@ -16,7 +16,6 @@ public class HandControls : MonoBehaviour
     private GameObject pointerball;
     private bool ballGrabbed;
     private Vector3 grabPos;
-    Vector3 prevVector;
     // Start is called before the first frame update
     void Start()
     {
@@ -31,25 +30,18 @@ public class HandControls : MonoBehaviour
             ballGrabbed = true;
             RaycastHit hit;
             if (Physics.Raycast(controller.transform.position, controller.transform.TransformDirection(Vector3.forward),out hit)) {
-               // Debug.Log("ray hit");
-              //  pointerball = Instantiate(pointerObject);
-               // pointerObject.transform.position = hit.transform.position;
+                Debug.Log("ray hit");
+                pointerball = Instantiate(pointerObject);
+                pointerObject.transform.position = hit.transform.position;
+                this.GetComponent<SpringJoint>().connectedBody = ball.GetComponent<Rigidbody>();
+                this.GetComponent<SpringJoint>().connectedAnchor = hit.transform.position;
             }
         }
-        
-        
         if (!getGrab()) {
-            ballGrabbed = false;
+            this.GetComponent<SpringJoint>().connectedBody = null;
+            //this.GetComponent<SpringJoint>().connectedAnchor = null;
         }
-        if (ballGrabbed)
-        {
-            //Vector3 scale = new Vector3(0, 0, 0);
-            //Vector3 vect = player.transform.forward.
-            player.transform.position += controller.transform.forward * 10;
-        }
-
     }
-
     bool getGrab()
     {
         return grabAction.GetStateDown(handType);
