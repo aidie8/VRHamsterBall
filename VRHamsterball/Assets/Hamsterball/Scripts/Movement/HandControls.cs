@@ -39,7 +39,7 @@ public class HandControls : MonoBehaviour
         }
         if (!getGrab()) {
             this.GetComponent<SpringJoint>().connectedBody = null;
-            this.GetComponent<SpringJoint>().connectedAnchor = null;
+            //this.GetComponent<SpringJoint>().connectedAnchor = null;
         }
     }
     bool getGrab()
