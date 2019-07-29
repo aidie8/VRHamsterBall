@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
         //Console.WriteLine(ball);
        Vector3 position = ball.transform.position;
        Console.WriteLine(position);
-       playerScript.trackingOriginTransform.position = position + new Vector3(0,0.5f,0.2f);
+       playerScript.trackingOriginTransform.position = position + new Vector3(0,-0.5f,0.2f);
 
         }
     }

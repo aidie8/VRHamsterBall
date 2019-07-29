@@ -3,3 +3,35 @@
 2019-07-29 08:39:51.0549 [DEBUG] Scene Fusion version 1.8.2-3
 2019-07-29 08:44:56.2761 [DEBUG] Scene Fusion version 1.8.2-3
 2019-07-29 08:45:22.3673 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-29 15:23:23.3133 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-29 15:28:12.2158 [INFO] Launching Session: Untitled
+2019-07-29 15:28:16.7609 [DEBUG] Connecting
+2019-07-29 15:28:16.7768 [DEBUG] Connecting to room (100793:SceneFusion:SceneFusion) via TCP at roommanager-vps669840.kinematicsoup.com:21312
+2019-07-29 15:30:03.2164 [DEBUG] Sent C:/Users/staff/Documents/GitHub/VRHamsterBall/VRHamsterball/KSEditorLogs/SessionLogs/session.100793-637000108971739535.log
+2019-07-29 15:30:03.2224 [DEBUG] Connection failed. (100793:SceneFusion:SceneFusion)
+2019-07-29 15:30:06.0873 [INFO] Launching Session: Untitled
+2019-07-29 15:30:06.9166 [DEBUG] Connecting
+2019-07-29 15:30:06.9236 [DEBUG] Connecting to room (100794:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-07-29 15:31:08.2485 [DEBUG] Sent C:/Users/staff/Documents/GitHub/VRHamsterBall/VRHamsterball/KSEditorLogs/SessionLogs/session.100794-637000110071310745.log
+2019-07-29 15:31:08.4271 [DEBUG] Error: Invalid token
+2019-07-29 15:31:18.4409 [DEBUG] Invalid token sent as part of a web request token. Token = Cc9PZ84Fx3tQciMwSQgsG7iDHI6rHnLOibfExbGSzm3ObJye8QWShHbFwxN8BwSgANGgi9SArJ2PJF3ZaAHPeQ0MBNoYy7rgbFc0j9ihUDLKKmRFC0s1rliCoK3kw4rgypWccIiiEUL8HmDKagRdjxipuPxpUxEBCr83nkWIIjAMmiTNl0adXxMIzMoD2jqmok1kmUIAfhcexQGttsYfksLBcAxi0rQpEbe8w6dEZul6izs5mnjXzwhYYd4whcY
+2019-07-29 15:33:42.1219 [INFO] Launching Session: Untitled
+2019-07-29 15:33:45.2738 [DEBUG] Connecting
+2019-07-29 15:33:45.2798 [DEBUG] Connecting to room (100795:SceneFusion:SceneFusion) via TCP at roommanager-vps230018.kinematicsoup.com:21312
+2019-07-29 15:37:08.0965 [DEBUG] Sent C:/Users/staff/Documents/GitHub/VRHamsterBall/VRHamsterball/KSEditorLogs/SessionLogs/session.100795-637000112259092918.log
+2019-07-29 15:37:16.6585 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-29 15:37:16.7353 [DEBUG] Play mode: True, sync in play mode: False
+2019-07-29 15:42:39.5032 [DEBUG] Play mode: False
+2019-07-29 15:46:13.4643 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-29 15:46:20.1759 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-29 15:46:20.2566 [DEBUG] Play mode: True, sync in play mode: False
+2019-07-29 15:46:49.9198 [DEBUG] Play mode: False
+2019-07-29 15:46:54.8739 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-29 15:46:54.9447 [DEBUG] Play mode: True, sync in play mode: False
+2019-07-29 15:47:20.7794 [DEBUG] Play mode: False
+2019-07-29 15:47:34.7086 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-29 15:47:34.8158 [DEBUG] Play mode: True, sync in play mode: False
+2019-07-29 15:48:43.9889 [DEBUG] Play mode: False
+2019-07-29 15:51:44.3824 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-29 15:51:44.4671 [DEBUG] Play mode: True, sync in play mode: False
+2019-07-29 15:56:56.5804 [DEBUG] Play mode: False

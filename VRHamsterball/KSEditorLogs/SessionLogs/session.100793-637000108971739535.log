@@ -1,0 +1,6 @@
+2019-07-29 15:28:17.4561 [DEBUG] Validating model...
+2019-07-29 15:28:17.7444 [DEBUG] Model updated
+2019-07-29 15:28:17.7454 [DEBUG] Authenticating with server...
+2019-07-29 15:28:19.3748 [DEBUG] Authentication with the remote host failed. (100793:SceneFusion:SceneFusion)
+2019-07-29 15:28:19.3788 [DEBUG] Failed to authenticate: Authentication failed.
+2019-07-29 15:28:19.4776 [DEBUG] Connection failed. (100793:SceneFusion:SceneFusion)
