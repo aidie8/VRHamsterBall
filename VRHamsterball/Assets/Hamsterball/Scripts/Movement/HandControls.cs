@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
@@ -31,16 +32,21 @@ public class HandControls : MonoBehaviour
             RaycastHit hit;
             if (Physics.Raycast(controller.transform.position, controller.transform.TransformDirection(Vector3.forward),out hit)) {
                 Debug.Log("ray hit");
-                pointerball = Instantiate(pointerObject);
                 pointerObject.transform.position = hit.transform.position;
+
                 this.GetComponent<SpringJoint>().connectedBody = ball.GetComponent<Rigidbody>();
-                this.GetComponent<SpringJoint>().connectedAnchor = hit.transform.position;
+                this.GetComponent<SpringJoint>().connectedAnchor = hit.transform.gameObject.GetComponent<Rigidbody>().transform.position-hit.transform.position;
+                print("1");
+                print("3" + this.GetComponent<SpringJoint>().connectedAnchor);
+                print("2");
+                print(this.GetComponent<SpringJoint>().connectedBody);
             }
         }
-        if (!getGrab()) {
-            this.GetComponent<SpringJoint>().connectedBody = null;
-            //this.GetComponent<SpringJoint>().connectedAnchor = null;
-        }
+        //if (!getGrab()) {
+        //    this.GetComponent<SpringJoint>().connectedBody = null;
+        //    this.GetComponent<SpringJoint>().connectedAnchor = new Vector3(0, 0, 0);
+        //    ballGrabbed = false;
+        //}
     }
     bool getGrab()
     {

@@ -41927,3 +41927,4 @@ You probably need to add a SpringJoint to the game object "LeftHand". Or your sc
 HandControls.Update () (at Assets/Hamsterball/Scripts/Movement/HandControls.cs:41)
 
 2019-07-29 16:56:04.6003 [DEBUG] Play mode: False
+2019-07-29 18:21:22.8999 [DEBUG] Scene Fusion version 1.8.2-3
