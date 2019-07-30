@@ -31,7 +31,6 @@ public class HandControls : MonoBehaviour
             RaycastHit hit;
             if (Physics.Raycast(controller.transform.position, controller.transform.TransformDirection(Vector3.forward),out hit)) {
                 Debug.Log("ray hit");
-                pointerball = Instantiate(pointerObject);
                 pointerObject.transform.position = hit.transform.position;
                 this.GetComponent<SpringJoint>().connectedBody = ball.GetComponent<Rigidbody>();
                 this.GetComponent<SpringJoint>().connectedAnchor = hit.transform.position;
@@ -39,7 +38,7 @@ public class HandControls : MonoBehaviour
         }
         if (!getGrab()) {
             this.GetComponent<SpringJoint>().connectedBody = null;
-            //this.GetComponent<SpringJoint>().connectedAnchor = null;
+            this.GetComponent<SpringJoint>().connectedAnchor = new Vector3(0, 0, 0);
         }
     }
     bool getGrab()
