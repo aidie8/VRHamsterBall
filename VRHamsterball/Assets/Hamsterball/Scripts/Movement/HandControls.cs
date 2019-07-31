@@ -20,14 +20,19 @@ public class HandControls : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+    
     }
 
     // Update is called once per frame
     void Update()
     {
+
+        if (getGrab()) {
+            print("Trigger Pressed");
+        }
+            print("triggers current state" + getTriggerState());
         
-        if (!ballGrabbed && getGrab()) {
+       /* if (!ballGrabbed && getGrab()) {
             ballGrabbed = true;
             RaycastHit hit;
             if (Physics.Raycast(controller.transform.position, controller.transform.TransformDirection(Vector3.forward),out hit)) {
@@ -46,11 +51,15 @@ public class HandControls : MonoBehaviour
         //    this.GetComponent<SpringJoint>().connectedBody = null;
         //    this.GetComponent<SpringJoint>().connectedAnchor = new Vector3(0, 0, 0);
         //    ballGrabbed = false;
-        //}
+        //}*/
     }
     bool getGrab()
     {
         return grabAction.GetStateDown(handType);
 
+    }
+
+    bool getTriggerState() {
+        return grabAction.GetState(handType);
     }
 }
