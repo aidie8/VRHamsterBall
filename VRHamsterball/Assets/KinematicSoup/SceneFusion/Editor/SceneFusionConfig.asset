@@ -21,4 +21,4 @@ MonoBehaviour:
   Network:
     Timeout: 30
     ReceiveBufferSize: 1024
-    OverrideServerPort: 0
+    OverrideServerPort: 443
