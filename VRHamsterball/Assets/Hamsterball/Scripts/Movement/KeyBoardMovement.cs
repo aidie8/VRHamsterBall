@@ -24,17 +24,17 @@ public class KeyBoardMovement : MonoBehaviour
             Vector3 dir = new Vector3(speed, 0, 0);
             this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Acceleration);
         }
-        else if (backward)
+        if (backward)
         {
             Vector3 dir = new Vector3(-speed, 0, 0);
             this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Acceleration);
         }
-        else if (left)
+        if (left)
         {
             Vector3 dir = new Vector3(0, 0, speed);
             this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Acceleration);
         }
-        else if (right)
+        if (right)
         {
             Vector3 dir = new Vector3(0, 0, -speed);
             this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Acceleration);
