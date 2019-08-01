@@ -30,28 +30,32 @@ public class HandControls : MonoBehaviour
         if (getGrab()) {
             print("Trigger Pressed");
         }
-            print("triggers current state" + getTriggerState());
+           print("triggers current state" + getTriggerState());
         
-       /* if (!ballGrabbed && getGrab()) {
+        if (!ballGrabbed && getGrab()) {
             ballGrabbed = true;
             RaycastHit hit;
-            if (Physics.Raycast(controller.transform.position, controller.transform.TransformDirection(Vector3.forward),out hit)) {
-                Debug.Log("ray hit");
-                pointerObject.transform.position = hit.transform.position;
+            if (Physics.Raycast(controller.transform.position, controller.transform.TransformDirection(Vector3.forward), out hit))
+            {
+                if (hit.transform.gameObject == ball)
+                {
+                    Debug.Log("ray hit");
+                    pointerObject.transform.position = hit.transform.position;
 
-                this.GetComponent<SpringJoint>().connectedBody = ball.GetComponent<Rigidbody>();
-                this.GetComponent<SpringJoint>().connectedAnchor = hit.transform.gameObject.GetComponent<Rigidbody>().transform.position-hit.transform.position;
-                print("1");
-                print("3" + this.GetComponent<SpringJoint>().connectedAnchor);
-                print("2");
-                print(this.GetComponent<SpringJoint>().connectedBody);
+                    this.GetComponent<FixedJoint>().connectedBody = ball.GetComponent<Rigidbody>();
+                    this.GetComponent<FixedJoint>().connectedAnchor = hit.transform.gameObject.GetComponent<Rigidbody>().transform.position;
+                    print("1");
+                    print("3" + this.GetComponent<FixedJoint>().connectedAnchor);
+                    print("2");
+                    print(this.GetComponent<FixedJoint>().connectedBody);
+                }
             }
         }
-        //if (!getGrab()) {
-        //    this.GetComponent<SpringJoint>().connectedBody = null;
-        //    this.GetComponent<SpringJoint>().connectedAnchor = new Vector3(0, 0, 0);
-        //    ballGrabbed = false;
-        //}*/
+        if (!getGrab()) {
+            this.GetComponent<FixedJoint>().connectedBody = null;
+            this.GetComponent<FixedJoint>().connectedAnchor = new Vector3(0, 0, 0);
+            ballGrabbed = false;
+        }
     }
     bool getGrab()
     {
