@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.17276844, g: 0.21589245, b: 0.2978263, a: 1}
+  m_IndirectSpecularColor: {r: 0.17276807, g: 0.21589196, b: 0.29782572, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1349,7 +1349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Ball: {fileID: 917414960}
-  speedmultiplier: 25
+  speedmultiplier: 5
 --- !u!1 &1221998011
 GameObject:
   m_ObjectHideFlags: 0
@@ -2789,8 +2789,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61a9666015ba2c1418343fb9ed25c120, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ball: {fileID: 1694582373}
-  speedmultiplier: 25
+  Ball: {fileID: 917414960}
+  speedmultiplier: -25
 --- !u!65 &2068916721
 BoxCollider:
   m_ObjectHideFlags: 0
