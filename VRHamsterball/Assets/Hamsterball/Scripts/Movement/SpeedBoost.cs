@@ -32,7 +32,8 @@ public class SpeedBoost : MonoBehaviour
         print("collisions");
         if (cooldown <= 0) {
         cooldown = 20;
-        Ball.GetComponent<Rigidbody>().velocity = Ball.GetComponent<Rigidbody>().velocity * speedmultiplier;
+            Vector3 boost = this.transform.up * speedmultiplier;
+            Ball.GetComponent<Rigidbody>().AddForce(boost,ForceMode.VelocityChange);
         }
     }
 }

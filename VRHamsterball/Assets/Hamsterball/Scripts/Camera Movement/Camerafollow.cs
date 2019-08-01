@@ -15,7 +15,6 @@ public class Camerafollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        print("position");
         this.transform.position = followObject.transform.position + offset;
     }
 }
