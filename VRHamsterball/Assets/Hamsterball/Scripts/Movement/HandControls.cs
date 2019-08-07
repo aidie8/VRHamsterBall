@@ -36,9 +36,9 @@ public class HandControls : MonoBehaviour
         {
             RaycastHit hit;
             Ray forward = new Ray(controller.transform.position, controller.transform.forward);
-            forward.origin = forward.GetPoint(2);
+            forward.origin = forward.GetPoint(20);
             forward.direction = -forward.direction;
-            Debug.DrawLine(forward.origin,controller.transform.position);
+            Debug.DrawLine(forward.origin,controller.transform.position,Color.red);
             pointerObject.transform.position = forward.origin;
             print(forward.origin);
             if (Physics.Raycast(forward, out hit))
