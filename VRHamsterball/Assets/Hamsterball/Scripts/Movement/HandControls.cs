@@ -13,6 +13,7 @@ public class HandControls : MonoBehaviour
     public Hand controller;
     public GameObject pointerObject;
     public Player player;
+    public GameObject rayStart;
     //private variables
     private GameObject pointerball;
     private Vector3 grabPos;
@@ -35,12 +36,11 @@ public class HandControls : MonoBehaviour
         if (getGrab())
         {
             RaycastHit hit;
-            Ray forward = new Ray(controller.transform.position, controller.transform.forward);
-            forward.origin = forward.GetPoint(20);
+            Ray forward = new Ray(rayStart.transform.position, -rayStart.transform.forward);
+            forward.origin = forward.GetPoint(3);
             forward.direction = -forward.direction;
             Debug.DrawLine(forward.origin,controller.transform.position,Color.red);
             pointerObject.transform.position = forward.origin;
-            print(forward.origin);
             if (Physics.Raycast(forward, out hit))
             {
                 print(hit.transform.gameObject);
