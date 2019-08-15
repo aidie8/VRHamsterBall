@@ -1,11 +1,17 @@
 # VRHamsterBall
 The worlds best VR game.
+
+
 Requires unity to run.
+
+
 Yeah thats it.
 
 
-Things as we know it.
-Movement system:
-For backup purposes there are currently arrow keys (probably be removed in the future)
-Movement is bound to the triggers.
-Ok now thats it.
+Movement is binded to the triggers, your hands moving in a rolling motion with control how the ball moves. Well thats what we want to achieve anyway.
+
+
+The game will be level based amd have different level types like puzzles and "Cat Chase" levels. The puzzles will vary depending on the environment that the level is in.
+
+
+The whole game is mainly based inside a normal suburban house.
