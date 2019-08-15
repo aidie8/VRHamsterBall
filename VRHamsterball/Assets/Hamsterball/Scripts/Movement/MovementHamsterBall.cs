@@ -61,11 +61,13 @@ public class MovementHamsterBall : MonoBehaviour
         opened = new bool[trackThese.Length];
         for (uint i = 0; i < trackThese.Length; i++)
         {
+            
             heldLastFrame[i] = false;
 
             markers[i] = Instantiate(marker as GameObject);
             markers[i].SetActive(false);
             markers[i].transform.parent = transform;
+            print(markers[i]);
             // frontAnchors[i] = new GameObject("Front Anchor");
             frontAnchors[i] = Instantiate(marker as GameObject);
             frontAnchors[i].AddComponent<Rigidbody>().isKinematic = true;
@@ -82,6 +84,7 @@ public class MovementHamsterBall : MonoBehaviour
         GetComponent<Rigidbody>().inertiaTensorRotation = Quaternion.identity;
         GetComponent<Rigidbody>().solverIterations = 20;
     }
+
 
     void Awake()
     {
