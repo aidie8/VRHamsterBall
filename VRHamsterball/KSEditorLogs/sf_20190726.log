@@ -1,0 +1,1427 @@
+2019-07-26 17:55:51.0233 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-26 17:55:54.1180 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-26 17:59:27.5351 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-26 17:59:27.7192 [DEBUG] Play mode: True, sync in play mode: False
+2019-07-26 17:59:42.7002 [DEBUG] Play mode: False
+2019-07-26 18:00:00.8712 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-26 18:00:00.9592 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.0161 [DEBUG] Play mode: True, sync in play mode: False
+2019-07-26 18:00:01.0262 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.0442 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.0602 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.0762 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.0932 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.1092 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.1262 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.1432 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.1592 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.1752 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.1922 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.2092 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.2252 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.2422 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.2592 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.2752 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.2922 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.3082 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.3252 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.3412 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.3582 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.3742 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.3912 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.4072 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.4242 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.4412 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.4572 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.4742 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.4912 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.5072 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.5242 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.5402 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.5572 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.5732 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.5902 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.6062 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.6232 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.6402 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.6562 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.6732 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.6892 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.7062 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.7222 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.7392 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.7552 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.7722 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.7892 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.8052 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.8222 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.8382 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.8552 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.8732 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.8882 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.9042 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.9222 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.9382 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.9552 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.9722 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:01.9882 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.0042 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.0212 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.0372 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.0542 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.0702 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.0872 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.1042 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.1202 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.1362 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.1532 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.1692 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.1862 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.2022 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.2192 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.2362 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.2522 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.2692 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.2862 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.3022 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.3182 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.3362 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.3522 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.3682 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.3852 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.4912 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.5082 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.5252 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.5412 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.5572 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.5742 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.5906 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.6076 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.6236 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.6406 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.6566 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.6731 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.6901 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.7071 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.7242 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.7401 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.7562 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.7732 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.7902 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.8072 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.8222 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.8402 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.8562 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.8722 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.8892 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.9052 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:02.9222 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.0342 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.0510 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.0670 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.0840 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.1100 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.1170 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.1340 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.1500 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.1660 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.1830 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.2000 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.2170 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.2320 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.2491 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.2661 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.2821 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.2991 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.3161 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.3321 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.3491 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.3651 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.3821 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.3991 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.4151 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.4321 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.4481 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.4651 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.4821 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.4981 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.5141 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.5311 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.5471 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.5641 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.5811 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.5971 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.6141 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.6301 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.6471 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.6641 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.6802 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.6962 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.7132 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.7292 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.7462 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.7632 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.7792 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.7962 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.8132 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.8293 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.8463 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.8623 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.8793 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.8953 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.9123 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.9283 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.9453 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.9623 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.9782 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:03.9943 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.0113 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.0283 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.0448 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.0608 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.0776 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.0936 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.1116 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.1276 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.1446 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.1606 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.1766 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.1936 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.2101 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.2271 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.2438 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.2598 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.2765 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.2925 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.3095 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.3255 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.3435 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.3595 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.3765 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.3925 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.4095 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.4255 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.4425 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.4585 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.4755 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.4924 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.5084 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.5244 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.5414 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.5584 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.5744 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.5914 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.6074 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.6244 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.6413 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.6583 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.6743 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.6903 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.7073 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.7233 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.7413 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.7573 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.7733 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.7903 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.8073 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.8233 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.8393 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.8563 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.8733 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.8893 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.9063 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.9233 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.9403 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.9563 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.9724 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:04.9893 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.0058 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.0223 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.0393 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.0553 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.0723 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.0883 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.1053 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.1223 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.1383 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.1543 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.1723 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.1883 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.2043 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.2223 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.2373 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.2543 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.2712 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.2872 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.3132 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.3212 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.3382 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.3542 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.3712 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.3872 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.4042 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.4212 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.4372 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.4542 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.4702 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.4872 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.5032 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.5202 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.5362 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.5532 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.5702 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.5862 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.6022 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.6192 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.6352 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.6522 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.6692 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.6853 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.7023 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.7183 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.7353 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.7523 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.7683 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.7853 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.8013 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.8183 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.8353 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.8513 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.8683 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.8843 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.9013 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.9173 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.9343 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.9513 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.9673 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:05.9833 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.0003 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.0163 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.0333 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.0503 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.0663 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.0833 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.1001 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.1161 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.1332 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.1491 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.1662 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.1832 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.1992 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.2162 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.2322 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.2492 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.2652 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.2820 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.2990 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.3150 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.3310 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.3480 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.3650 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.3810 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.3980 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.4140 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.4310 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.4480 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.4640 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.4810 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.4970 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.5140 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.5310 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.5470 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.5640 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.5810 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.5960 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.6130 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.6300 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.6460 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.6630 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.6790 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.6960 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.7130 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.7290 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.7460 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.7630 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.7790 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.7950 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.8120 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.8290 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.8452 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.8622 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.8782 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.8942 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.9112 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.9282 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.9452 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.9612 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.9772 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:06.9942 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:07.0112 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:07.0272 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:07.0442 [ERROR] UnassignedReferenceException: The variable followObject of Camerafollow has not been assigned.
+You probably need to assign the followObject variable of the Camerafollow script in the inspector.
+Camerafollow.Update () (at Assets/Hamsterball/Scripts/Camerafollow.cs:19)
+
+2019-07-26 18:00:08.7520 [DEBUG] Play mode: False
+2019-07-26 18:06:46.8306 [DEBUG] Scene Fusion version 1.8.2-3
+2019-07-26 18:06:47.0306 [DEBUG] Play mode: True, sync in play mode: False
+2019-07-26 18:06:54.5866 [DEBUG] Play mode: False
