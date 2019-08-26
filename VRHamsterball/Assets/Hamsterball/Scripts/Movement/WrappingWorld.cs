@@ -7,9 +7,16 @@ public class WrappingWorld : MonoBehaviour
     // Start is called before the first frame update
     public int MinimumHeight = -50;
     public int TeleportHeight = 100;
+    public float TpX;
+    public float TpY;
+    public float TpZ;
+
+
     void Start()
     {
-        
+        TpY = this.GetComponent<GameObject>().transform.position.y;
+        TpX = this.GetComponent<GameObject>().transform.position.x;
+        TpZ = this.GetComponent<GameObject>().transform.position.z;
     }
 
     // Update is called once per frame
@@ -17,7 +24,7 @@ public class WrappingWorld : MonoBehaviour
     {
         if (this.GetComponent<GameObject>().transform.position.y < MinimumHeight)
         {
-            this.GetComponent<GameObject>().transform.position= new Vector3 (0, TeleportHeight, 0);
+            this.GetComponent<GameObject>().transform.position = new Vector3(TpX, TpY, TpZ);
         }
             
     }
