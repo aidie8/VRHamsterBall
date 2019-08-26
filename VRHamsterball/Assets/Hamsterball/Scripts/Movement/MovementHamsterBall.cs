@@ -61,7 +61,7 @@ public class MovementHamsterBall : MonoBehaviour
         opened = new bool[trackThese.Length];
         for (uint i = 0; i < trackThese.Length; i++)
         {
-            
+
             heldLastFrame[i] = false;
 
             markers[i] = Instantiate(marker as GameObject);
@@ -72,12 +72,13 @@ public class MovementHamsterBall : MonoBehaviour
             frontAnchors[i] = Instantiate(marker as GameObject);
             frontAnchors[i].AddComponent<Rigidbody>().isKinematic = true;
             frontAnchors[i].GetComponent<Rigidbody>().solverIterations = 20;
+            frontAnchors[i].SetActive(false);
 
             //backAnchors[i] = new GameObject("Back Anchor");
             backAnchors[i] = Instantiate(marker as GameObject);
             backAnchors[i].AddComponent<Rigidbody>().isKinematic = true;
             backAnchors[i].GetComponent<Rigidbody>().solverIterations = 20;
-
+            backAnchors[i].SetActive(false);
             opened[i] = false;
         }
 
@@ -95,24 +96,24 @@ public class MovementHamsterBall : MonoBehaviour
     void FixedUpdate()
     {
         if (Time.time < delayUntil) return;
-        for (uint i = 0; i < trackThese.Length; i++)
-        {
-            SteamVR_Behaviour_Pose checkMe = trackThese[i];
-            if (checkMe == null || !checkMe.gameObject.activeSelf)
-            {
-                break;
-            }
-            // Project from the center of the sphere, through the controller, to the surface of the sphere.
-            Vector3 localPointOnSphere = transform.InverseTransformPoint(checkMe.transform.position).normalized * getArmLength();
-            // That projection is now the position of the 'front' anchor.
-            frontAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(localPointOnSphere));
-            // The 'back' anchor gets moved to the opposite side.
-            backAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(-1 * localPointOnSphere));
-            if (opened[i])
-            {
-                // Don't want to do this until the user has let go at least once, to avoid
-                // weird situations if they start the level holding onto the grip buttons.
-
+         for (uint i = 0; i < trackThese.Length; i++)
+         {
+             SteamVR_Behaviour_Pose checkMe = trackThese[i];
+             if (checkMe == null || !checkMe.gameObject.activeSelf)
+             {
+                 break;
+             }
+             // Project from the center of the sphere, through the controller, to the surface of the sphere.
+             Vector3 localPointOnSphere = transform.InverseTransformPoint(checkMe.transform.position).normalized * getArmLength();
+             // That projection is now the position of the 'front' anchor.
+             frontAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(localPointOnSphere));
+             // The 'back' anchor gets moved to the opposite side.
+             backAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(-1 * localPointOnSphere));
+             if (opened[i])
+             {
+                 // Don't want to do this until the user has let go at least once, to avoid
+                 // weird situations if they start the level holding onto the grip buttons.
+                 
                 if (!heldLastFrame[i] && GrabAction.GetState(checkMe.inputSource))
                 {
                     // The player wasn't gripping before, but is now.
