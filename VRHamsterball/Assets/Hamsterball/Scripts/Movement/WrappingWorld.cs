@@ -17,7 +17,7 @@ public class WrappingWorld : MonoBehaviour
         TpY = this.GetComponent<GameObject>().transform.position.y;
         TpX = this.GetComponent<GameObject>().transform.position.x;
         TpZ = this.GetComponent<GameObject>().transform.position.z;
-    }
+    } 
 
     // Update is called once per frame
     void Update()
