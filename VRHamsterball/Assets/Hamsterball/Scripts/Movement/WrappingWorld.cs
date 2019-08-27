@@ -14,17 +14,17 @@ public class WrappingWorld : MonoBehaviour
 
     void Start()
     {
-        TpY = this.GetComponent<GameObject>().transform.position.y;
-        TpX = this.GetComponent<GameObject>().transform.position.x;
-        TpZ = this.GetComponent<GameObject>().transform.position.z;
+        TpY = this.transform.position.y;
+        TpX = this.transform.position.x;
+        TpZ = this.transform.position.z;
     } 
 
     // Update is called once per frame
     void Update()
     {
-        if (this.GetComponent<GameObject>().transform.position.y < MinimumHeight)
+        if (this.transform.position.y < MinimumHeight)
         {
-            this.GetComponent<GameObject>().transform.position = new Vector3(TpX, TpY, TpZ);
+            this.transform.position = new Vector3(TpX, TpY, TpZ);
         }
             
     }

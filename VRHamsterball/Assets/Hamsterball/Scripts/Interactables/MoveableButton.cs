@@ -20,9 +20,8 @@ public class MoveableButton : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-        double diff = Math.Round((Mathf.Abs(transform.localPosition.y - intialPos.y)),3);
-        print("max offset = " + maxOffset + " diff " + diff + " pressed = " + !pressed);
+
+        double diff = Math.Round((Mathf.Abs(transform.localPosition.y - intialPos.y)), 3);
         //print(diff);
         if (diff > maxOffset && !pressed)
         {
