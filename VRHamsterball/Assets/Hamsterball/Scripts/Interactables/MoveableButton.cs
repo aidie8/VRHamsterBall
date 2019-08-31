@@ -22,7 +22,6 @@ public class MoveableButton : MonoBehaviour
     {
         
         double diff = Math.Round((Mathf.Abs(transform.localPosition.y - intialPos.y)),3);
-        print("max offset = " + maxOffset + " diff " + diff + " pressed = " + !pressed);
         //print(diff);
         if (diff > maxOffset && !pressed)
         {
