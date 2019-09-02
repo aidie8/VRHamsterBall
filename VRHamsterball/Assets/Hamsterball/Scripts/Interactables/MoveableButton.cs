@@ -7,6 +7,7 @@ using UnityEngine.Events;
 public class MoveableButton : MonoBehaviour
 {
     public UnityEvent ButtonPressed;
+    public UnityEvent ButtonReleased;
     public float maxOffset = .6f;
     //public bool ReverseDirection;
     private Vector3 intialPos;
@@ -28,9 +29,13 @@ public class MoveableButton : MonoBehaviour
             pressed = true;
             ButtonPressed.Invoke();
         }
-        else if  (diff < maxOffset)
+        else if  (diff < maxOffset && pressed)
             {
-            pressed = false;
+            
+                ButtonReleased.Invoke();
+                pressed = false;
+            
+            
             }
         }
 
