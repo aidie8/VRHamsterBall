@@ -72,13 +72,13 @@ public class MovementHamsterBall : MonoBehaviour
             frontAnchors[i] = Instantiate(marker as GameObject);
             frontAnchors[i].AddComponent<Rigidbody>().isKinematic = true;
             frontAnchors[i].GetComponent<Rigidbody>().solverIterations = 20;
-            frontAnchors[i].SetActive(false);
+           // frontAnchors[i].SetActive(false);
 
             //backAnchors[i] = new GameObject("Back Anchor");
             backAnchors[i] = Instantiate(marker as GameObject);
             backAnchors[i].AddComponent<Rigidbody>().isKinematic = true;
             backAnchors[i].GetComponent<Rigidbody>().solverIterations = 20;
-            backAnchors[i].SetActive(false);
+           // backAnchors[i].SetActive(false);
             opened[i] = false;
         }
 
@@ -107,6 +107,7 @@ public class MovementHamsterBall : MonoBehaviour
              Vector3 localPointOnSphere = transform.InverseTransformPoint(checkMe.transform.position).normalized * getArmLength();
              // That projection is now the position of the 'front' anchor.
              frontAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(localPointOnSphere));
+            print("test");
              // The 'back' anchor gets moved to the opposite side.
              backAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(-1 * localPointOnSphere));
              if (opened[i])
@@ -167,7 +168,7 @@ public class MovementHamsterBall : MonoBehaviour
         var newJoint = go.AddComponent<SpringJoint>();
         newJoint.connectedAnchor = transform.InverseTransformPoint(go.transform.position);
         newJoint.connectedBody = CachedBody;
-        newJoint.spring = 1500;
+        newJoint.spring = 3000;
         newJoint.breakForce = float.PositiveInfinity;
         newJoint.breakTorque = float.PositiveInfinity;
         newJoint.maxDistance = getArmLength() / 4f;

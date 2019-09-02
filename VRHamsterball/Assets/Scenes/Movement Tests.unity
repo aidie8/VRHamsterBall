@@ -818,7 +818,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &463878558
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1473,6 +1473,23 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 3417294899856909336}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &917414969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 917414960}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f590e3df51c76d4196feacbaa74966b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MinimumHeight: -50
+  TeleportHeight: 100
+  TpX: 0
+  TpY: 0
+  TpZ: 0
 --- !u!1 &924505612 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100010, guid: e0127fae53248a5479323bb27ecef01d,
