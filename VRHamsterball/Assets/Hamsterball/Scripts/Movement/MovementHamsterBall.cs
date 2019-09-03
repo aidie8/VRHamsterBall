@@ -7,6 +7,7 @@ using Valve.VR;
 public class MovementHamsterBall : MonoBehaviour
 {
     public float Delay = .2f;
+    public float maxSpringDistanceModfier = 4.0f;
     [Tooltip("Set this to a prefab. It'll show up in-game to indicate your anchor and grip positions.")]
     public GameObject marker;
 
@@ -171,7 +172,7 @@ public class MovementHamsterBall : MonoBehaviour
         newJoint.spring = 3000;
         newJoint.breakForce = float.PositiveInfinity;
         newJoint.breakTorque = float.PositiveInfinity;
-        newJoint.maxDistance = getArmLength() / 4f;
+        newJoint.maxDistance = getArmLength() / maxSpringDistanceModfier;
     }
 
     float getArmLength()
