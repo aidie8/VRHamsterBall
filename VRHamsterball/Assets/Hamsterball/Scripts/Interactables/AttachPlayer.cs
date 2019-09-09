@@ -21,9 +21,8 @@ public class AttachPlayer : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         //Vector3 scale = Player.transform.localScale;
-        Player.transform.parent = transform;
-        Debug.Log("player collision entered");
-        Debug.Log("the parent = " + Player.transform.parent);
+        GameObject parent = Player.transform.parent.gameObject;
+        parent.transform.parent = transform.parent;
         //Player.transform.localScale = scale;
     }
 
