@@ -169,7 +169,7 @@ public class MovementHamsterBall : MonoBehaviour
         var newJoint = go.AddComponent<SpringJoint>();
         newJoint.connectedAnchor = transform.InverseTransformPoint(go.transform.position);
         newJoint.connectedBody = CachedBody;
-        newJoint.spring = 3000;
+        newJoint.spring = 1500;
         newJoint.breakForce = float.PositiveInfinity;
         newJoint.breakTorque = float.PositiveInfinity;
         newJoint.maxDistance = getArmLength() / maxSpringDistanceModfier;
