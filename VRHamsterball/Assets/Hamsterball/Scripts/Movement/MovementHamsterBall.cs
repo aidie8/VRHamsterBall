@@ -186,7 +186,7 @@ public class MovementHamsterBall : MonoBehaviour
 
     private void Update()
     {
-        
+        print(frontAnchors[0].GetComponent<SpringJoint>().currentForce);
     }
 
     // Creates a spring between 'go' and this.gameObject
