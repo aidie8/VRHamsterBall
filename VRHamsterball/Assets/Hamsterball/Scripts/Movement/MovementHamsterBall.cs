@@ -50,6 +50,8 @@ public class MovementHamsterBall : MonoBehaviour
     float delayUntil = 0f;
 
     // Use this for initialization
+
+    private float radiuses;
     void Start()
     {
         // Creating the data to track for each controller.
@@ -85,6 +87,17 @@ public class MovementHamsterBall : MonoBehaviour
 
         GetComponent<Rigidbody>().inertiaTensorRotation = Quaternion.identity;
         GetComponent<Rigidbody>().solverIterations = 20;
+
+
+
+
+        Mesh mesh = GetComponent<MeshFilter>().mesh;
+        Bounds bounds = mesh.bounds;
+        float radius2 = bounds.extents.x;
+        float radius = this.GetComponent<SphereCollider>().radius;
+        print("radius2 " + radius2 * transform.localScale);
+        print("radius " + radius * transform.localScale);
+        radiuses = radius2;
     }
 
 
@@ -96,6 +109,12 @@ public class MovementHamsterBall : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+
+
+        Debug.Log("YESSS");
+        Debug.DrawLine(transform.position, transform.position + (new Vector3(0, 0, 0)), Color.black);
+        print("drawing line ");
+
         if (Time.time < delayUntil) return;
          for (uint i = 0; i < trackThese.Length; i++)
          {
@@ -160,6 +179,14 @@ public class MovementHamsterBall : MonoBehaviour
                 opened[i] = true;
             }
         }
+
+        
+    }
+
+
+    private void Update()
+    {
+        
     }
 
     // Creates a spring between 'go' and this.gameObject
@@ -178,7 +205,6 @@ public class MovementHamsterBall : MonoBehaviour
     float getArmLength()
     {
         float radius = this.GetComponent<SphereCollider>().radius;
-
         return radius;
     }
 }

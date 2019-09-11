@@ -5,7 +5,7 @@ using UnityEngine;
 public class KeyBoardMovement : MonoBehaviour
 {
 
-    private int speed = 50000;
+    public int speed = 500;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,22 +22,22 @@ public class KeyBoardMovement : MonoBehaviour
         if (forward)
         {
             Vector3 dir = new Vector3(speed, 0, 0);
-            this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Acceleration);
+            this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Force);
         }
         if (backward)
         {
             Vector3 dir = new Vector3(-speed, 0, 0);
-            this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Acceleration);
+            this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Force);
         }
         if (left)
         {
             Vector3 dir = new Vector3(0, 0, speed);
-            this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Acceleration);
+            this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Force);
         }
         if (right)
         {
             Vector3 dir = new Vector3(0, 0, -speed);
-            this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Acceleration);
+            this.GetComponent<Rigidbody>().AddTorque(dir, ForceMode.Force);
         }
     }
 }

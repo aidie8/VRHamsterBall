@@ -6,29 +6,26 @@ public class AttachPlayer : MonoBehaviour
 {
 
     public GameObject Player;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
+    private GameObject originalParent;
 
     private void OnCollisionEnter(Collision collision)
     {
-        //Vector3 scale = Player.transform.localScale;
-        GameObject parent = Player.transform.parent.gameObject;
-        parent.transform.parent = transform.parent;
-        //Player.transform.localScale = scale;
+        if (collision.gameObject == Player)
+        {
+            //Vector3 scale = Player.transform.localScale;
+            originalParent = Player.transform.parent.gameObject;
+            GameObject parent = Player.transform.parent.gameObject;
+            parent.transform.parent = transform.parent;
+            //Player.transform.localScale = scale;
+        }
     }
+    
 
 
     private void OnCollisionExit(Collision collision)
     {
-        Player.transform.parent = null;
+        Player.transform.parent.transform.parent = null;
     }
 }

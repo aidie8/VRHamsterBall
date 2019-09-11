@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DoorInteration : MonoBehaviour
 {
-    S
+    
     public void OpenDoor() {
         this.enabled = false;
     }
