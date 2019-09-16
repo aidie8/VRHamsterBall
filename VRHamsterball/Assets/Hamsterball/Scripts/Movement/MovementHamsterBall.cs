@@ -49,9 +49,13 @@ public class MovementHamsterBall : MonoBehaviour
     bool[] heldLastFrame;
     float delayUntil = 0f;
 
-    // Use this for initialization
 
-    private float radiuses;
+    //custom variables
+    private float timer = 1;
+    
+    
+    
+    // Use this for initialization
     void Start()
     {
         // Creating the data to track for each controller.
@@ -71,33 +75,22 @@ public class MovementHamsterBall : MonoBehaviour
             markers[i].SetActive(false);
             markers[i].transform.parent = transform;
             print(markers[i]);
-            // frontAnchors[i] = new GameObject("Front Anchor");
-            frontAnchors[i] = Instantiate(marker as GameObject);
+            frontAnchors[i] = new GameObject("Front Anchor");
+            //frontAnchors[i] = Instantiate(marker as GameObject);
             frontAnchors[i].AddComponent<Rigidbody>().isKinematic = true;
             frontAnchors[i].GetComponent<Rigidbody>().solverIterations = 20;
-           // frontAnchors[i].SetActive(false);
+            // frontAnchors[i].SetActive(false);
 
-            //backAnchors[i] = new GameObject("Back Anchor");
-            backAnchors[i] = Instantiate(marker as GameObject);
+            backAnchors[i] = new GameObject("Back Anchor");
+            //backAnchors[i] = Instantiate(marker as GameObject);
             backAnchors[i].AddComponent<Rigidbody>().isKinematic = true;
             backAnchors[i].GetComponent<Rigidbody>().solverIterations = 20;
-           // backAnchors[i].SetActive(false);
+            // backAnchors[i].SetActive(false);
             opened[i] = false;
         }
 
         GetComponent<Rigidbody>().inertiaTensorRotation = Quaternion.identity;
         GetComponent<Rigidbody>().solverIterations = 20;
-
-
-
-
-        Mesh mesh = GetComponent<MeshFilter>().mesh;
-        Bounds bounds = mesh.bounds;
-        float radius2 = bounds.extents.x;
-        float radius = this.GetComponent<SphereCollider>().radius;
-        print("radius2 " + radius2 * transform.localScale);
-        print("radius " + radius * transform.localScale);
-        radiuses = radius2;
     }
 
 
@@ -109,34 +102,28 @@ public class MovementHamsterBall : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-
-
-        Debug.Log("YESSS");
-        Debug.DrawLine(transform.position, transform.position + (new Vector3(0, 0, 0)), Color.black);
-        print("drawing line ");
-
         if (Time.time < delayUntil) return;
-         for (uint i = 0; i < trackThese.Length; i++)
-         {
-             SteamVR_Behaviour_Pose checkMe = trackThese[i];
-             if (checkMe == null || !checkMe.gameObject.activeSelf)
-             {
-                 break;
-             }
-             // Project from the center of the sphere, through the controller, to the surface of the sphere.
-             Vector3 localPointOnSphere = transform.InverseTransformPoint(checkMe.transform.position).normalized * getArmLength();
-             // That projection is now the position of the 'front' anchor.
-             frontAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(localPointOnSphere));
-            print("test");
-             // The 'back' anchor gets moved to the opposite side.
-             backAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(-1 * localPointOnSphere));
-             if (opened[i])
-             {
-                 // Don't want to do this until the user has let go at least once, to avoid
-                 // weird situations if they start the level holding onto the grip buttons.
-                 
+        for (uint i = 0; i < trackThese.Length; i++)
+        {
+            SteamVR_Behaviour_Pose checkMe = trackThese[i];
+            if (checkMe == null || !checkMe.gameObject.activeSelf)
+            {
+                break;
+            }
+            // Project from the center of the sphere, through the controller, to the surface of the sphere.
+            Vector3 localPointOnSphere = transform.InverseTransformPoint(checkMe.transform.position).normalized * getArmLength();
+            // That projection is now the position of the 'front' anchor.
+            frontAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(localPointOnSphere));
+            // The 'back' anchor gets moved to the opposite side.
+            backAnchors[i].GetComponent<Rigidbody>().MovePosition(transform.TransformPoint(-1 * localPointOnSphere));
+            if (opened[i])
+            {
+                // Don't want to do this until the user has let go at least once, to avoid
+                // weird situations if they start the level holding onto the grip buttons.
+
                 if (!heldLastFrame[i] && GrabAction.GetState(checkMe.inputSource))
                 {
+                    timer = 1;
                     // The player wasn't gripping before, but is now.
                     print("Grip start! At arm length: " + getArmLength());
 
@@ -150,24 +137,9 @@ public class MovementHamsterBall : MonoBehaviour
                 }
                 if (heldLastFrame[i] && !GrabAction.GetState(checkMe.inputSource))
                 {
-                    // The player was gripping before, but stopped
 
                     // Remove the springs
-                    foreach (Joint breakMe in frontAnchors[i].GetComponents<Joint>())
-                    {
-                        if (breakMe.connectedBody == CachedBody)
-                        {
-                            Destroy(breakMe);
-                        }
-                    }
-                    foreach (Joint breakMe in backAnchors[i].GetComponents<Joint>())
-                    {
-                        if (breakMe.connectedBody == CachedBody)
-                        {
-                            Destroy(breakMe);
-                        }
-                    }
-
+                    RemoveSprings(i);
                     // Hide the marker.
                     markers[i].SetActive(false);
                     print("Grip end!");
@@ -180,15 +152,38 @@ public class MovementHamsterBall : MonoBehaviour
             }
         }
 
-        
+
     }
 
 
-    private void Update()
-    {
-        print(frontAnchors[0].GetComponent<SpringJoint>().currentForce);
-    }
 
+    private void SpringTimer() {
+        timer -= Time.deltaTime;
+        if (timer < 0) {
+            for(uint i =0;i< trackThese.Length;i++)
+            RemoveSprings(i);
+            }
+        }
+
+
+    public void RemoveSprings(uint i) {
+        print("removing joints");
+        foreach (Joint breakMe in frontAnchors[i].GetComponents<Joint>())
+        {
+            if (breakMe.connectedBody == CachedBody)
+            {
+                Destroy(breakMe);
+            }
+        }
+        foreach (Joint breakMe in backAnchors[i].GetComponents<Joint>())
+        {
+            if (breakMe.connectedBody == CachedBody)
+            {
+                Destroy(breakMe);
+            }
+        }
+
+    }
     // Creates a spring between 'go' and this.gameObject
     // The start and end of the spring should both be at the current position of 'go'.
     void AddJoint(GameObject go)
