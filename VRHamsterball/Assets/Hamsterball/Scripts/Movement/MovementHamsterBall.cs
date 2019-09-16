@@ -110,6 +110,13 @@ public class MovementHamsterBall : MonoBehaviour
             {
                 break;
             }
+            Camera playerCamera = this.transform.parent.GetComponentInChildren<Camera>();
+            print(playerCamera);
+
+
+
+
+
             // Project from the center of the sphere, through the controller, to the surface of the sphere.
             Vector3 localPointOnSphere = transform.InverseTransformPoint(checkMe.transform.position).normalized * getArmLength();
             // That projection is now the position of the 'front' anchor.
@@ -135,13 +142,18 @@ public class MovementHamsterBall : MonoBehaviour
                     AddJoint(frontAnchors[i]);
                     AddJoint(backAnchors[i]);
                 }
+
+                if (heldLastFrame[i]) {
+                    SpringTimer();
+                }
                 if (heldLastFrame[i] && !GrabAction.GetState(checkMe.inputSource))
                 {
 
                     // Remove the springs
                     RemoveSprings(i);
+                    timer = 1;
                     // Hide the marker.
-                    markers[i].SetActive(false);
+
                     print("Grip end!");
                 }
             }
@@ -168,6 +180,7 @@ public class MovementHamsterBall : MonoBehaviour
 
     public void RemoveSprings(uint i) {
         print("removing joints");
+        markers[i].SetActive(false);
         foreach (Joint breakMe in frontAnchors[i].GetComponents<Joint>())
         {
             if (breakMe.connectedBody == CachedBody)
@@ -191,7 +204,7 @@ public class MovementHamsterBall : MonoBehaviour
         var newJoint = go.AddComponent<SpringJoint>();
         newJoint.connectedAnchor = transform.InverseTransformPoint(go.transform.position);
         newJoint.connectedBody = CachedBody;
-        newJoint.spring = 1500;
+        newJoint.spring = 3000;
         newJoint.breakForce = float.PositiveInfinity;
         newJoint.breakTorque = float.PositiveInfinity;
         newJoint.maxDistance = getArmLength() / maxSpringDistanceModfier;
