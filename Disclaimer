@@ -15,3 +15,6 @@ The game will be level based amd have different level types like puzzles and "Ca
 
 
 The whole game is mainly based inside a normal suburban house.
+
+
+There is no reset button currently, just restart the scene
