@@ -1,7 +1,19 @@
+14/10/19
+Version: Development 
+
+Changes: 
+-Changed max spring distance: 2 > 100
+-Fixed fan animation speed: 10 > 9001 (it's over 9000)
+-Imported aidens movement rewrite (never gonna be used though) 
+
+Fixes:
+-Renamed some stuff
+
+Removals:
 
 
 16/09/2019(02)
-Version: Pre-Alpha
+Version: Development 
 
 Changes:
 -Added a timner for the controllers.
@@ -14,14 +26,12 @@ Removals:
 
 
 16/09/2019
-Version: Pre-Alpha
-
+Version: Development 
 
 Changes:
 -Made this log.
 
 Fixes:
-
 
 Removals:
 -Removed the readme from the other branches.
