@@ -824,7 +824,7 @@ GameObject:
   - component: {fileID: 463878561}
   m_Layer: 0
   m_Name: Camera
-  m_TagString: Untagged
+  m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -836,7 +836,7 @@ Camera:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 463878557}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
@@ -863,7 +863,7 @@ Camera:
     m_Bits: 4294967295
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
+  m_TargetDisplay: 1
   m_TargetEye: 0
   m_HDR: 1
   m_AllowMSAA: 1
@@ -880,7 +880,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 463878557}
   m_LocalRotation: {x: 0.2164396, y: 0, z: 0, w: 0.976296}
-  m_LocalPosition: {x: 106.52, y: 26.1, z: 69.22}
+  m_LocalPosition: {x: 94.6, y: 18.1, z: 71.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -898,7 +898,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 307c8ac7c29482842921870e0b6435a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  followObject: {fileID: 0}
+  followObject: {fileID: 1854621080}
 --- !u!1 &539275479
 GameObject:
   m_ObjectHideFlags: 0
@@ -1625,6 +1625,11 @@ PrefabInstance:
         type: 3}
       propertyPath: maxSpringDistanceModfier
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 3417294900991296770, guid: 279e0cb1ab7f75945ade1ac40607b162,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 279e0cb1ab7f75945ade1ac40607b162, type: 3}
@@ -3584,6 +3589,12 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 41fa1b44d6bebb4448bbe616874e8079, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
+--- !u!1 &1854621080 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3417294900561533535, guid: 279e0cb1ab7f75945ade1ac40607b162,
+    type: 3}
+  m_PrefabInstance: {fileID: 887999742}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1859410124 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100006, guid: 56af853031443e9499a311663b0b9651,
