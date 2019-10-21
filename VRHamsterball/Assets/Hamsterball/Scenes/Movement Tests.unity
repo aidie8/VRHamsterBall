@@ -120,6 +120,12 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &50287081 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3417294900561533535, guid: 279e0cb1ab7f75945ade1ac40607b162,
+    type: 3}
+  m_PrefabInstance: {fileID: 887999742}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &65859676
 GameObject:
   m_ObjectHideFlags: 0
@@ -1289,7 +1295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61a9666015ba2c1418343fb9ed25c120, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ball: {fileID: 0}
+  Ball: {fileID: 50287081}
   speedmultiplier: 50
 --- !u!65 &696574756
 BoxCollider:
