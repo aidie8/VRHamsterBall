@@ -15,7 +15,7 @@ Version: Development
 Changes: 
 -Changed max spring distance: 2 > 100
 -Fixed fan animation speed: 10 > 9001 (it's over 9000)
--Imported aidens movement rewrite (never gonna be used though) 
+-Imported Aidens movement rewrite (never gonna be used though) 
 
 Fixes:
 -Renamed some stuff
@@ -27,7 +27,7 @@ Removals:
 Version: Development 
 
 Changes:
--Added a timner for the controllers.
+-Added a timer for the controllers.
 
 Fixes:
 -Fixed the ball (Undefined)
