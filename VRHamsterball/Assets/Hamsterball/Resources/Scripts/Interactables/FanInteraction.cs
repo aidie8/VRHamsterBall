@@ -27,6 +27,7 @@ public class FanInteraction : MonoBehaviour
         RaycastHit hit;
         Vector3 orgin = this.transform.position;
         Vector3 forward = this.transform.right;
+        Console.WriteLine(forward);
         // if (Physics.Raycast(orgin, forward,out hit, range)) {
         if (Physics.SphereCast(orgin, radius, forward, out hit, range))
         {
