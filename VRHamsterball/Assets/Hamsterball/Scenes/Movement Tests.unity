@@ -898,7 +898,7 @@ Camera:
     m_Bits: 4294967295
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 1
+  m_TargetDisplay: 0
   m_TargetEye: 0
   m_HDR: 1
   m_AllowMSAA: 1
@@ -1596,6 +1596,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3417294900014022700, guid: 279e0cb1ab7f75945ade1ac40607b162,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3417294900014022700, guid: 279e0cb1ab7f75945ade1ac40607b162,
+        type: 3}
+      propertyPath: maxSpringDistanceModfier
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 3417294900991317762, guid: 279e0cb1ab7f75945ade1ac40607b162,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3417294900561888895, guid: 279e0cb1ab7f75945ade1ac40607b162,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -1615,16 +1630,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mass
       value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 3417294900014022700, guid: 279e0cb1ab7f75945ade1ac40607b162,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3417294900014022700, guid: 279e0cb1ab7f75945ade1ac40607b162,
-        type: 3}
-      propertyPath: maxSpringDistanceModfier
-      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 3417294900991296770, guid: 279e0cb1ab7f75945ade1ac40607b162,
         type: 3}
@@ -2216,10 +2221,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
-      propertyPath: m_Name
-      value: Physics Object
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_LocalPosition.x
       value: 20.21
@@ -2275,6 +2276,10 @@ PrefabInstance:
     - target: {fileID: 400000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_LocalScale.z
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
+      propertyPath: m_Name
+      value: Physics Object
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3468,10 +3473,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
-      propertyPath: m_Name
-      value: Physics Object (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.1
@@ -3527,6 +3528,10 @@ PrefabInstance:
     - target: {fileID: 400000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_LocalScale.z
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
+      propertyPath: m_Name
+      value: Physics Object (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_Materials.Array.data[0]
