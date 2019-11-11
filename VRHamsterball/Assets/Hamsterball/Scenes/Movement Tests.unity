@@ -2221,6 +2221,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
+      propertyPath: m_Name
+      value: Physics Object
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_LocalPosition.x
       value: 20.21
@@ -2276,10 +2280,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_LocalScale.z
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
-      propertyPath: m_Name
-      value: Physics Object
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2535,6 +2535,11 @@ PrefabInstance:
         type: 3}
       propertyPath: ButtonPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094755841691830939, guid: 7a67c40e2d98828488dfcfd14128bc08,
+        type: 3}
+      propertyPath: ButtonPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8124290714772689003, guid: 7a67c40e2d98828488dfcfd14128bc08,
         type: 3}
@@ -3473,6 +3478,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
+      propertyPath: m_Name
+      value: Physics Object (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.1
@@ -3528,10 +3537,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_LocalScale.z
       value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
-      propertyPath: m_Name
-      value: Physics Object (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 50d25e184cbbdc5409cad2b7959e2903, type: 3}
       propertyPath: m_Materials.Array.data[0]
