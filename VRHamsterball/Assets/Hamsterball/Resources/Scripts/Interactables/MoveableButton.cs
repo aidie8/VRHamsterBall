@@ -8,6 +8,7 @@ public class MoveableButton : MonoBehaviour
 {
     public UnityEvent ButtonPressed;
     public UnityEvent ButtonReleased;
+    private double heighestoffset = 0;
     public float maxOffset = .6f;
     //public bool ReverseDirection;
     private Vector3 intialPos;
@@ -23,7 +24,11 @@ public class MoveableButton : MonoBehaviour
     {
         
         double diff = Math.Round((Mathf.Abs(transform.localPosition.y - intialPos.y)),3);
-        //print(diff);
+        if (diff > heighestoffset) {
+            heighestoffset = diff;
+            print(heighestoffset);
+        }
+        
         if (diff > maxOffset && !pressed)
         {
             pressed = true;
