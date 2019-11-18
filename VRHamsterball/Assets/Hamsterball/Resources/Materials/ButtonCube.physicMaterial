@@ -7,8 +7,8 @@ PhysicMaterial:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ButtonCube
-  dynamicFriction: 0.5
-  staticFriction: 0.01
-  bounciness: 0
+  dynamicFriction: 100
+  staticFriction: 0.001
+  bounciness: 1
   frictionCombine: 2
-  bounceCombine: 0
+  bounceCombine: 3
