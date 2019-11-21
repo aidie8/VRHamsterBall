@@ -36,7 +36,7 @@ public class MoveableButton : MonoBehaviour
         }
         else if  (diff < maxOffset && pressed)
             {
-            
+                print("released");
                 ButtonReleased.Invoke();
                 pressed = false;
             

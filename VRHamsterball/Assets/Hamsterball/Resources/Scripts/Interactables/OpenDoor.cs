@@ -22,4 +22,10 @@ public class OpenDoor : MonoBehaviour
         Animator.Play("open");
 
     }
+
+    public void DoorClose() {
+        Animator.Play("close");
+        
+
+    }
 }
