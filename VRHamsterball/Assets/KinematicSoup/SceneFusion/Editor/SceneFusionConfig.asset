@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Debug: 1
   ShowGettingStartedScreen: 1
-  LastVersion: 0.0.0
+  LastVersion: 1.8.5
   Offsets:
     OnlineStatusOffset: {x: 0, y: 0}
     HierarchyIconOffset: 0
   Network:
     Timeout: 30
     ReceiveBufferSize: 1024
-    OverrideServerPort: 0
+    OverrideServerPort: 433
