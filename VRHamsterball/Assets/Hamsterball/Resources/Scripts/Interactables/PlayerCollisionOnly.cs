@@ -20,8 +20,10 @@ public class PlayerCollisionOnly : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.tag != "Player") {
+        if (collision.gameObject.tag != "Interactable" && collision.gameObject.tag != "Player") {
             Physics.IgnoreCollision(collision.gameObject.GetComponent<Collider>(), this.GetComponent<Collider>());
         }
     }
+
+
 }

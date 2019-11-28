@@ -26,9 +26,9 @@ public class MoveableButton : MonoBehaviour
         double diff = Math.Round((Mathf.Abs(transform.localPosition.y - intialPos.y)),3);
         if (diff > heighestoffset) {
             heighestoffset = diff;
-            print(heighestoffset);
         }
-        
+
+
         if (diff > maxOffset && !pressed)
         {
             pressed = true;

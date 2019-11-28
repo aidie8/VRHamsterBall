@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SceneFusionConfig
   m_EditorClassIdentifier: 
   Debug: 1
-  ShowGettingStartedScreen: 1
+  ShowGettingStartedScreen: 0
   LastVersion: 1.8.5
   Offsets:
     OnlineStatusOffset: {x: 0, y: 0}
