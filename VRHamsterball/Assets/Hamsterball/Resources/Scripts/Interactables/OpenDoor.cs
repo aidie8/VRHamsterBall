@@ -5,6 +5,7 @@ using UnityEngine;
 public class OpenDoor : MonoBehaviour
 {
     Animator Animator;
+    bool button = false;
     void Start()
     {
         Animator = GetComponent<Animator>();
@@ -14,18 +15,29 @@ public class OpenDoor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+       
+        print(button);
+        if (button) {
+            Animator.SetBool("Open", true);
+
+        }
+        // Animator.SetBool("Open", button);
+        if (!button) {
+            Animator.SetBool("Open", false);
+            Animator.enabled = true;
+        }
         
     }
 
-    public void DoorOpen()
-    {
-        Animator.Play("open");
-
+    public void DoorOpened() {
+        Animator.enabled = false;
     }
 
-    public void DoorClose() {
-        Animator.Play("close");
-        
+    public void ButtonPressed() {
+        button = true;
+    }
 
+    public void ButtonReleased() {
+        button = false;
     }
 }
