@@ -9,6 +9,6 @@ PhysicMaterial:
   m_Name: ButtonCube
   dynamicFriction: 100
   staticFriction: 0.001
-  bounciness: 1
+  bounciness: 0.1
   frictionCombine: 2
   bounceCombine: 3
