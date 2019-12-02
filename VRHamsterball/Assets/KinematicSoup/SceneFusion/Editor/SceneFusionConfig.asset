@@ -19,6 +19,6 @@ MonoBehaviour:
     OnlineStatusOffset: {x: 0, y: 0}
     HierarchyIconOffset: 0
   Network:
-    Timeout: 30
+    Timeout: 5
     ReceiveBufferSize: 1024
     OverrideServerPort: 433
