@@ -74,7 +74,7 @@ public class MovementHamsterBall : MonoBehaviour
             markers[i] = Instantiate(marker as GameObject);
             markers[i].SetActive(false);
             markers[i].transform.parent = transform;
-            print(markers[i]);
+           // print(markers[i]);
             frontAnchors[i] = new GameObject("Front Anchor");
             //frontAnchors[i] = Instantiate(marker as GameObject);
             frontAnchors[i].AddComponent<Rigidbody>().isKinematic = true;
@@ -111,7 +111,7 @@ public class MovementHamsterBall : MonoBehaviour
                 break;
             }
             Camera playerCamera = this.transform.parent.GetComponentInChildren<Camera>();
-            print(playerCamera);
+
 
 
 
@@ -132,7 +132,7 @@ public class MovementHamsterBall : MonoBehaviour
                 {
                     timer = 1;
                     // The player wasn't gripping before, but is now.
-                    print("Grip start! At arm length: " + getArmLength());
+                  //  print("Grip start! At arm length: " + getArmLength());
 
                     // Move the markers into place and show them.
                     markers[i].SetActive(true);
