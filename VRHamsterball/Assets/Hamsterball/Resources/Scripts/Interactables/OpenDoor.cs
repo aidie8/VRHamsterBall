@@ -16,7 +16,7 @@ public class OpenDoor : MonoBehaviour
     void Update()
     {
        
-        print(button);
+//        print(button);
         if (button) {
             Animator.SetBool("Open", true);
 
