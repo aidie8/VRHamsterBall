@@ -3201,17 +3201,17 @@ PrefabInstance:
     - target: {fileID: 3417294899936786997, guid: 279e0cb1ab7f75945ade1ac40607b162,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -23.4
+      value: -7.56
       objectReference: {fileID: 0}
     - target: {fileID: 3417294899936786997, guid: 279e0cb1ab7f75945ade1ac40607b162,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 36.6
+      value: 1.81
       objectReference: {fileID: 0}
     - target: {fileID: 3417294899936786997, guid: 279e0cb1ab7f75945ade1ac40607b162,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 21.81
+      value: -22.46
       objectReference: {fileID: 0}
     - target: {fileID: 3417294899936786997, guid: 279e0cb1ab7f75945ade1ac40607b162,
         type: 3}
@@ -5589,16 +5589,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_Name
-      value: wall light 3
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: d61aa48b3d902fb47808da7f19aa6bc0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5653,6 +5643,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_Name
+      value: wall light 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d61aa48b3d902fb47808da7f19aa6bc0, type: 3}
@@ -6404,16 +6404,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_Name
-      value: wall light 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: d61aa48b3d902fb47808da7f19aa6bc0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6468,6 +6458,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_Name
+      value: wall light 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d61aa48b3d902fb47808da7f19aa6bc0, type: 3}
@@ -7232,7 +7232,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1387525665}
   m_LocalRotation: {x: 0.17364816, y: 0, z: 0, w: 0.9848078}
-  m_LocalPosition: {x: -23.69, y: 38.45, z: 18.679998}
+  m_LocalPosition: {x: -7.8500004, y: 3.6600037, z: -25.59}
   m_LocalScale: {x: 1.3601, y: 0.60357, z: -2.4152}
   m_Children: []
   m_Father: {fileID: 0}
@@ -8460,16 +8460,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_Name
-      value: wall light 2
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: d61aa48b3d902fb47808da7f19aa6bc0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8524,6 +8514,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_Name
+      value: wall light 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d61aa48b3d902fb47808da7f19aa6bc0, type: 3}
