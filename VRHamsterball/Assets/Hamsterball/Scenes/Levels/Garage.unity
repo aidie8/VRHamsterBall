@@ -3665,13 +3665,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 610682255}
-  m_LocalRotation: {x: -0.18301277, y: -0.68301266, z: 0.6830127, w: 0.18301277}
-  m_LocalPosition: {x: -52.8, y: 3.56, z: -20.34}
+  m_LocalRotation: {x: -0.6830127, y: -0.18301275, z: -0.18301275, w: -0.6830127}
+  m_LocalPosition: {x: 33.98, y: 13.6, z: 17.43}
   m_LocalScale: {x: 16, y: 6.1, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1831618982}
   m_RootOrder: 16
-  m_LocalEulerAnglesHint: {x: 120, y: 90, z: -90}
+  m_LocalEulerAnglesHint: {x: 120, y: 270, z: -90}
 --- !u!65 &610682257
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5589,6 +5589,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_Name
+      value: wall light 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: d61aa48b3d902fb47808da7f19aa6bc0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5643,16 +5653,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_Name
-      value: wall light 3
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d61aa48b3d902fb47808da7f19aa6bc0, type: 3}
@@ -6404,6 +6404,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_Name
+      value: wall light 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: d61aa48b3d902fb47808da7f19aa6bc0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6458,16 +6468,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_Name
-      value: wall light 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d61aa48b3d902fb47808da7f19aa6bc0, type: 3}
@@ -8460,6 +8460,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_Name
+      value: wall light 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: d61aa48b3d902fb47808da7f19aa6bc0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8514,16 +8524,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_Name
-      value: wall light 2
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: d61aa48b3d902fb47808da7f19aa6bc0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d61aa48b3d902fb47808da7f19aa6bc0, type: 3}
