@@ -36,3 +36,5 @@ sysinfo.txt
 *.unitypackage
 
 VRHamsterball/KSEditorLogs/
+
+VRHamsterball/unityProject.vrmanifest
