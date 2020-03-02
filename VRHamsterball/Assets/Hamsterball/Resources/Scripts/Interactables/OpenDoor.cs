@@ -6,7 +6,7 @@ public class OpenDoor : MonoBehaviour
 {
     Animator Animator;
     bool button = false;
-    public timer timerscript;
+    public something timerscript;
     void Start()
     {
         Animator = GetComponent<Animator>();
@@ -20,14 +20,14 @@ public class OpenDoor : MonoBehaviour
 //        print(button);
         if (button) {
             Animator.SetBool("Open", true);
-            timerscript.StopTimer();
+            timerscript.Timer = false;
 
         }
         // Animator.SetBool("Open", button);
         if (!button) {
             Animator.SetBool("Open", false);
             Animator.enabled = true;
-            timerscript.StopTimer();
+            timerscript.Timer = false;
         }
         
     }
