@@ -13,7 +13,7 @@ public class something : MonoBehaviour
     private void Start()
     {
 
-        Timer = true;
+        Timer = false;
           
     }
 
