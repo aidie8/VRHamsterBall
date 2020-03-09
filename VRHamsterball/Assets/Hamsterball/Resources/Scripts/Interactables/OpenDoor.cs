@@ -27,7 +27,6 @@ public class OpenDoor : MonoBehaviour
         if (!button) {
             Animator.SetBool("Open", false);
             Animator.enabled = true;
-            timerscript.Timer = false;
         }
         
     }

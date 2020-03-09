@@ -145,6 +145,7 @@ public class MovementHamsterBall : MonoBehaviour
 
                 if (heldLastFrame[i]) {
                     SpringTimer();
+                    print("a");
                 }
                 if (heldLastFrame[i] && !GrabAction.GetState(checkMe.inputSource))
                 {

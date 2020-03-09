@@ -24,7 +24,7 @@ public class something : MonoBehaviour
         {
 
             time += Time.deltaTime;
-            timertext.text = time.ToString();
+            timertext.text = time.ToString("0.00");
 
         }
 
