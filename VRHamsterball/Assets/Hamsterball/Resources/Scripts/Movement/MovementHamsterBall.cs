@@ -6,6 +6,8 @@ using Valve.VR;
 [RequireComponent(typeof(Rigidbody))]
 public class MovementHamsterBall : MonoBehaviour
 {
+    public something Timer;
+    private bool TimerSet;
     public float Delay = .2f;
     public float maxSpringDistanceModfier = 4.0f;
     [Tooltip("Set this to a prefab. It'll show up in-game to indicate your anchor and grip positions.")]
@@ -58,6 +60,9 @@ public class MovementHamsterBall : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+
+        TimerSet = false;
+
         // Creating the data to track for each controller.
         // Really, instead of multiple arrays of trackThese.Length, this should
         // be one array of objects that have each of these as fields.
@@ -102,7 +107,8 @@ public class MovementHamsterBall : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (Time.time < delayUntil) return;
+
+            if (Time.time < delayUntil) return;
         for (uint i = 0; i < trackThese.Length; i++)
         {
             SteamVR_Behaviour_Pose checkMe = trackThese[i];
@@ -145,6 +151,11 @@ public class MovementHamsterBall : MonoBehaviour
 
                 if (heldLastFrame[i]) {
                     SpringTimer();
+                    if (!TimerSet)
+                    {
+                        TimerSet = true;
+                        Timer.Timer = true;
+                    }
                 }
                 if (heldLastFrame[i] && !GrabAction.GetState(checkMe.inputSource))
                 {
